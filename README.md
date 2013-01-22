@@ -1,3 +1,3 @@
 railsgirls_ES
 =============
-coming soon
+Este es un proyecto de traducción al Español de la guía original provista por Rails Girls en http://guides.railsgirls.com/
